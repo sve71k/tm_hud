@@ -1,0 +1,6 @@
+﻿customtkinter
+psutil
+nvidia-ml-py
+pystray
+pillow
+pyinstaller
